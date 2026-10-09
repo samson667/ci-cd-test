@@ -22,7 +22,7 @@ app.use('/',home_route)
 
 app.use(express.static(public_folder))
 
-app.usee('/product',product_route)
+app.usee('/product',product_route
 
 
 
