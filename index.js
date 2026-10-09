@@ -4,7 +4,7 @@ import {fileURLToPath} from "url"
 
 // ----------ROUTES--------
 import home_route from "./routes/home.js"
-import product_route from "./routes/product.js"
+import product_route from "./product.js"
 
 
 let app = express()
